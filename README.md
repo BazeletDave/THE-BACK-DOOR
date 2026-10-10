@@ -18,6 +18,10 @@ Explore the story, the interactive experience, and the questions at the center o
 
 This repository establishes a foundation for the project's continuing development and documentation. Future additions may include game development, research materials, and related creative work.
 
+## GRI Observational Research
+
+[Study 001: Organic Visibility and Algorithmic Amplification](research/observational-study-001-organic-visibility.md) records a screenshot-supported baseline of 4,501 views, 46 likes and 1 comment on a promotional clip, alongside a protocol for continued measurement. No causal claims are made.
+
 ---
 
 **David Grand**  
