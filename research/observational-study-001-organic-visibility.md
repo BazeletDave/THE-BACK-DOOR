@@ -5,27 +5,27 @@
 **Research area:** Algorithmic management, digital platforms, attention allocation and human judgment  
 **Record initiated:** 2026-10-10  
 **Design:** Prospective, nonexperimental, longitudinal observational case study  
-**Status:** Initial observation reported by project author; primary platform evidence pending archive
+**Status:** User-supplied screenshot visually inspected; original image and native analytics export not yet archived in repository
 
 ## Research question
 
 How do social media recommendation systems, paid promotion, account characteristics, social influence and audience engagement relate to the distribution and growth of digital content, and what can be inferred about visibility versus human judgment?
 
-## Initial observation (unverified platform report)
+## Initial observation (user-supplied screenshot; platform analytics not independently verified)
 
 | Field | Initial record |
 | --- | --- |
 | Content | One short promotional video for THE BACK DOOR |
 | View count | 4,501 |
-| Count source | Project author report, 2026-10-10 |
+| Count source | User-supplied screenshot and project author report, 2026-10-10 |
 | Paid advertising | Author reports none for the project/video; independent campaign verification not yet available |
-| Platform | Not yet documented |
+| Platform | Short-video mobile interface; exact platform not independently confirmed |
 | Post URL / video ID | Pending |
 | Publication timestamp | Pending |
-| Exact capture timestamp and time zone | Pending |
-| Screenshot / native analytics export | Pending |
+| Exact capture timestamp and time zone | Date submitted 2026-10-10; screenshot screen clock reads 1:52, without AM/PM or verified time zone |
+| Screenshot / native analytics export | User-supplied screenshot reviewed in conversation; native export and original image archival in repository pending |
 | Impressions / reach / unique viewers | Not available |
-| Likes / comments / shares / saves | Not available |
+| Likes / comments / shares / saves | 46 likes and 1 comment visible; share and save counts not visible |
 | Follower count at publication | Not available |
 | Recommendation/referral sources | Not available |
 | Cross-posting / external sharing | Not assessed |
@@ -47,7 +47,7 @@ How do social media recommendation systems, paid promotion, account characterist
 
 `capture_timestamp_iso,platform,video_id,video_url,post_timestamp_iso,views_cumulative,impressions,unique_reach,watch_time_seconds,average_view_duration_seconds,likes,comments,shares,saves,followers,campaign_spend_usd,paid_status,referral_source,evidence_path,notes`
 
-Initial reported observation should not be entered into a dated numeric CSV until the specific video, platform and snapshot date are confirmed; this README preserves the exact attribution and uncertainties.
+Initial observation may be tracked as a provisional, screenshot-supported record; do not assert an exact snapshot timestamp or a validated platform analytics record until corroborated.
 
 ## Hypotheses for future testing
 
@@ -70,7 +70,7 @@ Single-case observation, platform-dependent metric definitions, opaque recommend
 
 ## Next evidence item
 
-Attach or reference the specific original video and an uncropped view-count capture, including platform, publication time and capture timestamp. Future count updates must be appended as new observations, never retroactively overwritten.
+Archive the user-supplied original screenshot and link the specific original video, recording its platform, publication time and verified capture timestamp. The screenshot shows a short video combining a television talk-show clip and THE BACK DOOR bus advertisement, on account @grandresearchinstitute with 4,501 views, 46 likes and 1 comment. Do not identify people or rights holders based only on this screenshot. Future count updates must be appended as new observations, never retroactively overwritten.
 
 **Research classification:** Descriptive baseline, not a causal experiment or proof of algorithmic bias.
 
