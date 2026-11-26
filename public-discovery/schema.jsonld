@@ -3,16 +3,16 @@
   "@graph": [
     {
       "@type": "Person",
-      "@id": "https://www.david-grand.com/#person",
+      "@id": "https://david-grand.com/#person",
       "name": "David Grand",
-      "url": "https://www.david-grand.com/"
+      "url": "https://david-grand.com/"
     },
     {
       "@type": "Book",
       "@id": "https://back-door-october-4-original.vercel.app/#book",
       "name": "THE BACK DOOR",
       "author": {
-        "@id": "https://www.david-grand.com/#person"
+        "@id": "https://david-grand.com/#person"
       },
       "url": "https://back-door-october-4-original.vercel.app/",
       "description": "Forthcoming novel by David Grand."
@@ -24,7 +24,7 @@
       "name": "THE BACK DOOR public discovery gateway",
       "about": [
         {
-          "@id": "https://www.david-grand.com/#person"
+          "@id": "https://david-grand.com/#person"
         },
         {
           "@id": "https://back-door-october-4-original.vercel.app/#book"
