@@ -33,7 +33,7 @@ THE BACK DOOR is the creative entry point to David Grand's public work. Explore 
 | Destination | Role |
 | --- | --- |
 | [THE BACK DOOR official project website](https://back-door-october-4-original.vercel.app/) | Forthcoming novel and interactive experience |
-| [David Grand](https://www.david-grand.com/) | Author biography, professional history and publications |
+| [David Grand](https://david-grand.com/) | Author biography, professional history and publications |
 | [Grand Research Institute / ConsciousAI](https://github.com/BazeletDave/ConsciousAI) | Independent institutional research and research infrastructure |
 | [From Code to Consciousness](https://github.com/BazeletDave/from-code-to-consciousness) | Published book companion repository |
 | [Public discovery and search intelligence guide](PUBLIC-DISCOVERY.md) | Website integration, attribution and monitoring |
