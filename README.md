@@ -36,6 +36,5 @@ THE BACK DOOR is the creative entry point to David Grand's public work. Explore 
 | [David Grand](https://www.david-grand.com/) | Author biography, professional history and publications |
 | [Grand Research Institute / ConsciousAI](https://github.com/BazeletDave/ConsciousAI) | Independent institutional research and research infrastructure |
 | [From Code to Consciousness](https://github.com/BazeletDave/from-code-to-consciousness) | Published book companion repository |
-| [Public discovery and search intelligence guide](PUBLIC-DISCOVERY.md) | Website integration, attribution and monitoring |
 
 Fiction and institutional research are distinct bodies of work. Their connection is shared authorship and thematic inquiry, not evidence of fictional events or institutional endorsement.
