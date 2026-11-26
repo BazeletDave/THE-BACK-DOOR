@@ -5,7 +5,7 @@ The existing THE BACK DOOR repository is the public discovery hub, not a replace
 ## Reciprocal integration
 
 - Novel website: https://back-door-october-4-original.vercel.app/ — add a visible link to https://github.com/BazeletDave/THE-BACK-DOOR and the author website.
-- Author website: https://www.david-grand.com/ — add a forthcoming novel link and a visible link to the discovery hub. Coordinate with the existing website developer.
+- Author website: https://david-grand.com/ — add a forthcoming novel link and a visible link to the discovery hub. Coordinate with the existing website developer.
 - Research: https://github.com/BazeletDave/ConsciousAI — retain independent research governance; link from the discovery hub.
 - Publication: https://github.com/BazeletDave/from-code-to-consciousness — identify as companion repository, not a purchase page.
 
